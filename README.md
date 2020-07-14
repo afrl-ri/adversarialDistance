@@ -15,3 +15,7 @@ Code repository for "Harnessing Adversarial Distances to Discover High-Confidenc
 - unkunk_utility.py: functions provided by Bansad and Weld aiweb.cs.washington.edu/ai/unkunk18
 
 
+
+
+
+*DISTRIBUTION A: Approved for Public Release [Case # 88ABW-2019-1334] Distribution Unlimited*

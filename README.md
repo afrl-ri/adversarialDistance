@@ -1,6 +1,6 @@
 # Adversarial Distance
 
-Code repository for "Harnessing Adversarial Distances to Discover High-Confidence Errors"
+Code repository for "Harnessing Adversarial Distances to Discover High-Confidence Errors".  Paper can be found here: https://arxiv.org/abs/2006.16055.
 
 ## File descriptions
 
